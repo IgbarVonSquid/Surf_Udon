@@ -15,6 +15,7 @@ A prefab for making surf maps in VRChat!
 - Leaderboard
 - Teleporters
 - Ramps and boosters
+- Tutorial scene
 - [MerlinUI](https://github.com/MerlinVR/MUI)
 ## Requirements
 - Unity 2019.4.29f1
