@@ -1,5 +1,7 @@
 # Surf_Udon
 A prefab for making surf maps in VRChat!
+### DISCLAIMER
+This is not the same as the surf from Source games! Trying to port surf maps from Source will NOT WORK. While I hope to get it to be somewhat similar over time I don't think it will ever be the exact same. You also shouldn't be uploading other people's work without their permission regardless.
 ## [Download latest version](https://github.com/IgbarVonSquid/Surf_Udon/releases)
 ## Prefab includes:
 - Surf controller
